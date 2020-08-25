@@ -1,1 +1,1 @@
-<img src="githubcomcolbyford.png" width="100%" alt="github.com/colbyford">
+![github.com/colbyford](githubcomcolbyford.png)
