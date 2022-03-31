@@ -8,6 +8,10 @@
 [![StrainHub](https://github-readme-stats.vercel.app/api/pin/?username=colbyford&repo=StrainHub&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/colbyford/StrainHub)
 -->
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colbyford/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@colbyford)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colby.ford@uncc.edu)
+
 <!--
 🧬
 👨‍🔬
