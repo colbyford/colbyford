@@ -11,6 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colbyford/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@colbyford)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colby.ford@uncc.edu)
+[![Book Badge](https://img.shields.io/badge/Genomics_in_Azure_book-6f7582?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.manning.com/books/genomics-in-azure)
 
 <!--
 🧬
