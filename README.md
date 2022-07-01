@@ -14,6 +14,7 @@
 [![Book Badge](https://img.shields.io/badge/Genomics_in_Azure_book-6f7582?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.manning.com/books/genomics-in-azure)
 
 
+
 <!--
 🧬
 👨‍🔬
