@@ -7,11 +7,17 @@
 [![sparkitecture.io](https://github-readme-stats.vercel.app/api/pin/?username=colbyford&repo=sparkitecture&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/colbyford/sparkitecture)
 [![StrainHub](https://github-readme-stats.vercel.app/api/pin/?username=colbyford&repo=StrainHub&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/colbyford/StrainHub)
 -->
+<h3 align="left">Where to buy <i>Genomics in the Azure Cloud</i>:</h3>
 
+[![O'Reilly Badge](https://img.shields.io/badge/O'Reilly-d3002d?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.oreilly.com/library/view/genomics-in-the/9781098139032/)
+[![Amazon Badge](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/Genomics-Azure-Cloud-Bioinformatics-Enterprise-Grade/dp/1098139046)
+[![Target Badge](https://img.shields.io/badge/Target-E80018?style=for-the-badge&logo=target&logoColor=white)](https://www.target.com/p/genomics-in-the-azure-cloud-by-colby-ford-paperback/-/A-87567449)
+
+## Other Links:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colbyford/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@colbyford)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colby.ford@uncc.edu)
-[![Book Badge](https://img.shields.io/badge/Genomics_in_Azure_book-6f7582?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.oreilly.com/library/view/genomics-in-the/9781098139032/)
+
 
 <!--
 🧬
