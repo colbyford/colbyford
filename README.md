@@ -14,7 +14,7 @@
 [![Target Badge](https://img.shields.io/badge/Target-E80018?style=for-the-badge&logo=target&logoColor=white)](https://www.target.com/p/genomics-in-the-azure-cloud-by-colby-ford-paperback/-/A-87567449)
 [![Barnes & Noble Badge](https://img.shields.io/badge/Barnes%20&%20Noble-34614a?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.barnesandnoble.com/w/genomics-in-the-azure-cloud-colby-ford/1142086614)
 
-## Other Links:
+### Other Links:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colbyford/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@colbyford)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colby.ford@uncc.edu)
