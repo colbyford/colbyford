@@ -22,6 +22,8 @@
 [![Medium Badge](https://img.shields.io/badge/Medium%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@colbyford)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colby.ford@uncc.edu)
 
+<p align="right"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5005240"><img src="https://github.com/colbyford/colbyford/blob/master/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png?raw=true" width="200px"></a></p>
+
 <!--
 🧬
 👨‍🔬
