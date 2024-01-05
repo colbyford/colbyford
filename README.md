@@ -9,6 +9,7 @@
 [![StrainHub](https://github-readme-stats.vercel.app/api/pin/?username=colbyford&repo=StrainHub&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/colbyford/StrainHub)
 -->
 
+
 <h3 align="left">Where to buy <i>Genomics in the Azure Cloud</i>:</h3>
 
 [![O'Reilly Badge](https://img.shields.io/badge/O'Reilly-d3002d?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.oreilly.com/library/view/genomics-in-the/9781098139032/)
