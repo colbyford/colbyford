@@ -27,7 +27,6 @@
   <img src="https://i0.wp.com/blog.johnfolberth.com/wp-content/uploads/2021/04/mct_logo.jpg" width="80px">
 </p>
 
-
 <!--
 🧬
 👨‍🔬
