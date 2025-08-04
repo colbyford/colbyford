@@ -12,7 +12,7 @@
 <h3 align="left">Where to buy <i>Genomics in the Azure Cloud</i>:</h3>
 
 [![O'Reilly Badge](https://img.shields.io/badge/O'Reilly-d3002d?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.oreilly.com/library/view/genomics-in-the/9781098139032/)
-[![Amazon Badge](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/Genomics-Azure-Cloud-Bioinformatics-Enterprise-Grade/dp/1098139046)
+[![Amazon Badge](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.amazon.com/Genomics-Azure-Cloud-Bioinformatics-Enterprise-Grade/dp/1098139046)
 [![Barnes & Noble Badge](https://img.shields.io/badge/Barnes%20&%20Noble-34614a?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.barnesandnoble.com/w/genomics-in-the-azure-cloud-colby-ford/1142086614)
 [![Shroff Publishers Badge](https://img.shields.io/badge/Shroff%20Publishers%20(India)-1438bc?style=for-the-badge&logo=ardour&logoColor=white)](https://www.shroffpublishers.com/books/9789355423641/)
 
