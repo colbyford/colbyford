@@ -20,6 +20,7 @@
 [![Medium Blog Badge](https://img.shields.io/badge/Medium%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@colbyford)
 [![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/colbyford)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colby.ford@charlotte.edu)
+[![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-174EA6?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=zetDB4EAAAAJ&hl=en)
 
 <p align="right">
   <a href="https://mvp.microsoft.com/en-US/mvp/profile/a517a31e-0cce-ed11-a7c6-000d3a5603d3"><img src="https://github.com/colbyford/colbyford/blob/master/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png?raw=true" width="200px"></a>
