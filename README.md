@@ -21,6 +21,8 @@
 [![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/colbyford)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colby.ford@charlotte.edu)
 [![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-174EA6?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=zetDB4EAAAAJ&hl=en)
+[![ORCiD Badge](https://img.shields.io/badge/ORCiD-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](http://orcid.org/0000-0002-7859-3622)
+
 
 
 <p align="right">
