@@ -15,7 +15,7 @@
 [![Barnes & Noble Badge](https://img.shields.io/badge/Barnes%20&%20Noble-34614a?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.barnesandnoble.com/w/genomics-in-the-azure-cloud-colby-ford/1142086614)
 [![Shroff Publishers Badge](https://img.shields.io/badge/Shroff%20Publishers%20(India)-1438bc?style=for-the-badge&logo=ardour&logoColor=white)](https://www.shroffpublishers.com/books/9789355423641/)
 
-### Social Links:
+### Profile Links:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colbyford/)
 [![Medium Blog Badge](https://img.shields.io/badge/Medium%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@colbyford)
 [![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/colbyford)
