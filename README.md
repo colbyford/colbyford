@@ -15,6 +15,14 @@
 [![Barnes & Noble Badge](https://img.shields.io/badge/Barnes%20&%20Noble-34614a?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.barnesandnoble.com/w/genomics-in-the-azure-cloud-colby-ford/1142086614)
 [![Shroff Publishers Badge](https://img.shields.io/badge/Shroff%20Publishers%20(India)-1438bc?style=for-the-badge&logo=ardour&logoColor=white)](https://www.shroffpublishers.com/books/9789355423641/)
 
+<h3 align="left">Where to Preorder <i>Building Agentic Solutions with Microsoft Foundry</i>:</h3>
+
+[![O'Reilly Badge](https://img.shields.io/badge/O'Reilly-d3002d?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.oreilly.com/library/view/building-agentic-solutions/0642572309817/)
+
+
+
+
+
 ### Profile Links:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colbyford/)
 [![Medium Blog Badge](https://img.shields.io/badge/Medium%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@colbyford)
@@ -22,6 +30,7 @@
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colby.ford@charlotte.edu)
 [![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-174EA6?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=zetDB4EAAAAJ&hl=en)
 [![ORCiD Badge](https://img.shields.io/badge/ORCiD-A7CE39?style=for-the-badge&logo=orcid&logoColor=white)](http://orcid.org/0000-0002-7859-3622)
+
 
 
 
