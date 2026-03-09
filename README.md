@@ -32,7 +32,6 @@
 [![ORCiD Badge](https://img.shields.io/badge/ORCiD-A7CE39?style=for-the-badge&logo=orcid&logoColor=white)](http://orcid.org/0000-0002-7859-3622)
 
 
-
 <p align="right">
   <a href="https://mvp.microsoft.com/en-US/mvp/profile/a517a31e-0cce-ed11-a7c6-000d3a5603d3"><img src="https://github.com/colbyford/colbyford/blob/master/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png?raw=true" width="200px"></a>
   <img src="https://i0.wp.com/blog.johnfolberth.com/wp-content/uploads/2021/04/mct_logo.jpg" width="80px">
