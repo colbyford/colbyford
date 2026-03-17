@@ -15,7 +15,7 @@
 [![Barnes & Noble Badge](https://img.shields.io/badge/Barnes%20&%20Noble-34614a?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.barnesandnoble.com/w/genomics-in-the-azure-cloud-colby-ford/1142086614)
 [![Shroff Publishers Badge](https://img.shields.io/badge/Shroff%20Publishers%20(India)-1438bc?style=for-the-badge&logo=ardour&logoColor=white)](https://www.shroffpublishers.com/books/9789355423641/)
 
-<h3 align="left">Where to Preorder <i>Building Agentic Solutions with Microsoft Foundry</i>:</h3>
+<h3 align="left">Where to preorder <i>Building Agentic Solutions with Microsoft Foundry</i>:</h3>
 
 [![O'Reilly Badge](https://img.shields.io/badge/O'Reilly-d3002d?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.oreilly.com/library/view/building-agentic-solutions/0642572309817/)
 
