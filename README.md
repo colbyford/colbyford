@@ -12,7 +12,6 @@
   <!-- <img src="https://i0.wp.com/blog.johnfolberth.com/wp-content/uploads/2021/04/mct_logo.jpg" width="80px"> -->
 </p>
 
-
  <!--https://m.media-amazon.com/images/I/81B3NU2BBwL._SY522_.jpg-->
 
 | ![https://learning.oreilly.com/library/view/building-agentic-solutions/0642572309817/](https://learning.oreilly.com/covers/urn:orm:book:0642572309817/200w/) | ![https://www.oreilly.com/library/view/genomics-in-the/9781098139032/](https://learning.oreilly.com/covers/urn:orm:book:9781098139032/200w/) |
